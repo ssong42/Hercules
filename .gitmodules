@@ -1,0 +1,3 @@
+[submodule "lion2"]
+	path = lion2
+	url = https://github.com/ssong42/Hercules.git
