@@ -1,3 +1,6 @@
 [submodule "lion2"]
 	path = lion2
 	url = https://github.com/ssong42/Hercules.git
+[submodule "lion"]
+	path = lion
+	url = vogsphere@vgs.42.us.org:intra/2018/activities/hercules_nemean_lion/ssong
